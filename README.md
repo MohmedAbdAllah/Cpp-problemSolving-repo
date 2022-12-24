@@ -4,4 +4,4 @@ this repo has my solution of some problem solving prolems and also some classes 
 
 ## Subheader
 
-Watch tutorial on youtube.
+Watch tutorial on youtube
