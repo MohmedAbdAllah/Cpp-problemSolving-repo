@@ -6,6 +6,3 @@ this repo has my solution of some problem solving prolems and also some classes 
 
 Watch tutorial on youtube.
 
-## Local Development
-
-1. open start and start to write your code.
